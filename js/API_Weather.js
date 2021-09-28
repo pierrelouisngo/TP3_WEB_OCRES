@@ -17,6 +17,7 @@ class API_WEATHER{
     this.city = city;
   }
 
+ 
   // Faire la requete à l'API openweathermap
   // Retourne une promise
   fetchTodayForecast(){
